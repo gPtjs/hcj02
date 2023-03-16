@@ -8,7 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #333;
-  background: linen;
+  background: rgb(215, 210, 58);
 }
 
 ul {
@@ -71,7 +71,7 @@ button {
   margin: 5px 10px;
   font-size: large;
   font-weight: bold;
-  background-color: lightgrey;
+  background-color: rgb(97, 80, 233);
   /* border-radius: 10px;
     border-width: 0px; */
 }
